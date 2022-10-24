@@ -1,2 +1,6 @@
 # HUST-CS-C-programming-experiments
-HUST-CS-2019 C语言程序设计实验
+本仓库包含1个实验文件。
+
+**实验文件**
+
+- C语言实验报告.pdf（内含代码）
